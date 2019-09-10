@@ -34,7 +34,7 @@ steps:
     operator: ===
                   #
   - type: respond
-  #   option:
+    with: pr-opened.md
   #
   # - type:
   #   option:
